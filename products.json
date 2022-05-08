@@ -1,0 +1,25 @@
+    [{
+            "name": "Konfitura z płatków róży",
+            "cap": "200ml",
+            "price": 22,
+            "stock": 15,
+            "shortDesc": "W płatkach róży znajdziemy antocyjany, olejki eteryczne, flawonoidy i śluzy. Oprócz tego róża bogata jest w fenolokwasy oraz niektóre witaminy, w tym witaminę C. ",
+            "longDesc": "Hamuje rozwoju infekcji, pomoc w obniżeniu gorączki, pomaga przy leczeniu kaszlu i zaburzeń przewodu pokarmowego, wzmacnianie naczyń krwionośnych skóry, dziąseł, włosów, pomoc przy oczyszczaniu organizmu z toksyn, działanie przeciwbiegunkowe i wspomagające przy niestrawności,  działanie łagodzące objawy przeziębienia i ból gardła, działanie antydepresyjne, uspokajające i poprawiające nastrój (olejek eteryczny zawarty w róży korzystnie oddziałuje na układ nerwowy, pomagając w odprężeniu i ukojeniu nerwów)."
+        },
+        {
+            "name": "Syrop z cytryńca",
+            "cap": "250ml",
+            "price": 30,
+            "stock": 10,
+            "shortDesc": "Cytryniec chiński to roślina, której właściwości i lecznicze działanie wykorzystuje się od tysiącleci w medycynie naturalnej Dalekiego Wschodu. Nazwa chińska rośliny oznacza owoc pięciu smaków, ponieważ słodki i kwaśny smak występują w skórce i miąższu, a cierpki, gorzki i słony w nasionach. ",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum eaque deleniti magnam repellat reiciendis, repellendus quae culpa facilis quo, sequi ipsa repudiandae saepe adipisci corporis laborum, voluptates voluptatibus nihil? Assumenda? Ex iste eum, debitis adipisci cumque quod odio eos placeat ratione necessitatibus, sint animi dolores atque non eaque deserunt veritatis quo iure at sapiente neque possimus commodi minima libero? Quo!"
+        },
+        {
+            "name": "Sok z jagody kamczackiej",
+            "cap": "250ml",
+            "price": 32,
+            "stock": 5,
+            "shortDesc": "Jagoda kamczacka to jeden z pierwszych owoców lata. Czy znasz jej smak?",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique."
+        }
+    ]

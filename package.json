@@ -1,0 +1,23 @@
+{
+  "name": "z-pola-i-lasu-backend",
+  "version": "1.0.0",
+  "description": "Prosta obsługa produktów do sklepu Z Pola i Lasu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajers777/z-pola-i-lasu-backend.git"
+  },
+  "author": "Łukasz Bajerowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bajers777/z-pola-i-lasu-backend/issues"
+  },
+  "homepage": "https://github.com/bajers777/z-pola-i-lasu-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
