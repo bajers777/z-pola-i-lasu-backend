@@ -4,7 +4,8 @@
             "price": 22,
             "stock": 15,
             "shortDesc": "W płatkach róży znajdziemy antocyjany, olejki eteryczne, flawonoidy i śluzy. Oprócz tego róża bogata jest w fenolokwasy oraz niektóre witaminy, w tym witaminę C. ",
-            "longDesc": "Hamuje rozwoju infekcji, pomoc w obniżeniu gorączki, pomaga przy leczeniu kaszlu i zaburzeń przewodu pokarmowego, wzmacnianie naczyń krwionośnych skóry, dziąseł, włosów, pomoc przy oczyszczaniu organizmu z toksyn, działanie przeciwbiegunkowe i wspomagające przy niestrawności,  działanie łagodzące objawy przeziębienia i ból gardła, działanie antydepresyjne, uspokajające i poprawiające nastrój (olejek eteryczny zawarty w róży korzystnie oddziałuje na układ nerwowy, pomagając w odprężeniu i ukojeniu nerwów)."
+            "longDesc": "Hamuje rozwoju infekcji, pomoc w obniżeniu gorączki, pomaga przy leczeniu kaszlu i zaburzeń przewodu pokarmowego, wzmacnianie naczyń krwionośnych skóry, dziąseł, włosów, pomoc przy oczyszczaniu organizmu z toksyn, działanie przeciwbiegunkowe i wspomagające przy niestrawności,  działanie łagodzące objawy przeziębienia i ból gardła, działanie antydepresyjne, uspokajające i poprawiające nastrój (olejek eteryczny zawarty w róży korzystnie oddziałuje na układ nerwowy, pomagając w odprężeniu i ukojeniu nerwów).",
+            "img": "http://localhost:8888/img/konfitura_platki_roz.webp"
         },
         {
             "name": "Syrop z cytryńca",
@@ -12,7 +13,9 @@
             "price": 30,
             "stock": 10,
             "shortDesc": "Cytryniec chiński to roślina, której właściwości i lecznicze działanie wykorzystuje się od tysiącleci w medycynie naturalnej Dalekiego Wschodu. Nazwa chińska rośliny oznacza owoc pięciu smaków, ponieważ słodki i kwaśny smak występują w skórce i miąższu, a cierpki, gorzki i słony w nasionach. ",
-            "longDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum eaque deleniti magnam repellat reiciendis, repellendus quae culpa facilis quo, sequi ipsa repudiandae saepe adipisci corporis laborum, voluptates voluptatibus nihil? Assumenda? Ex iste eum, debitis adipisci cumque quod odio eos placeat ratione necessitatibus, sint animi dolores atque non eaque deserunt veritatis quo iure at sapiente neque possimus commodi minima libero? Quo!"
+            "longDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum eaque deleniti magnam repellat reiciendis, repellendus quae culpa facilis quo, sequi ipsa repudiandae saepe adipisci corporis laborum, voluptates voluptatibus nihil? Assumenda? Ex iste eum, debitis adipisci cumque quod odio eos placeat ratione necessitatibus, sint animi dolores atque non eaque deserunt veritatis quo iure at sapiente neque possimus commodi minima libero? Quo!",
+            "img": "http://localhost:8888/img/syrop_z_cytrynca.webp"
+
         },
         {
             "name": "Sok z jagody kamczackiej",
@@ -20,6 +23,115 @@
             "price": 32,
             "stock": 5,
             "shortDesc": "Jagoda kamczacka to jeden z pierwszych owoców lata. Czy znasz jej smak?",
-            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique."
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/sok_z_jagody.webp"
+        },
+        {
+            "name": "Sok z czerwonej porzeczki",
+            "cap": "250ml",
+            "price": 27,
+            "stock": 0,
+            "shortDesc": "Mnie owoce porzeczki kojarzą się z ogrodem babci, letnimi promieniami słońca i beztroską dzieciństwa. A jakie są Państwa skojarzenia?",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/sok_z_czerwonej_porzeczki.jpg"
+        },
+        {
+            "name": "Syrop dereniowy",
+            "cap": "250ml",
+            "price": 27,
+            "stock": 15,
+            "shortDesc": "Mnie owoce porzeczki kojarzą się z ogrodem babci, letnimi promieniami słońca i beztroską dzieciństwa. A jakie są Państwa skojarzenia?",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_dereniowy.jpg"
+        },
+        {
+            "name": "Syrop lawendowy",
+            "cap": "250ml",
+            "price": 22,
+            "stock": 10,
+            "shortDesc": "Pola Prowansji z urzekającym aromatem unoszącym się w powietrzu - wszystko to schowane w buteleczce syropu lawendowego.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrok_lawendowy.jpg"
+        },
+        {
+            "name": "Syrop z zielonych orzechów włoskich",
+            "cap": "250ml",
+            "price": 33,
+            "stock": 3,
+            "shortDesc": "Syrop z zielonych orzechów włoskich poleca się jako dodatek do porannej filiżanki kawy. Pomoże też na bolący brzuszek.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_z_zielonych_orzechow_wloskich.jpg"
+        },
+        {
+            "name": "Syrop z płatków róży",
+            "cap": "500ml",
+            "price": 40,
+            "stock": 15,
+            "shortDesc": "Razem z tym syropem przeniesiesz się do różanego ogrodu. Jest doskonałym dodatkiem do herbaty, lemoniady, deserów, lodów. Polecamy go jako półprodukt na domową nalewkę.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_z_platkow_rozy.jpg"
+        },
+        {
+            "name": "Syrop imbir z pigwowcem",
+            "cap": "500ml",
+            "price": 40,
+            "stock": 8,
+            "shortDesc": "Doskonały dodatek do herbaty, lemoniady, deserów, lodów. Półprodukt do domowych nalewek. Polecamy go przy przeziębieniach i obniżonej odporności.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_imbir_z_pigwowcem.jpg"
+        },
+        {
+            "name": "Syrop z rajskich jabłuszek z rumem i wanilią",
+            "cap": "500ml",
+            "price": 40,
+            "stock": 8,
+            "shortDesc": "Nasz syrop z aromatycznych rajskich jabłuszek idealnie komponuje się ze świątecznym klimatem Bożego Narodzenia. Wystarczy odrobinę wlać do herbaty, by cieszyć się jego niepowtarzalnym smakiem i słodkim zapachem wanilii i rumu. Jeszcze tylko ciepły kocyk i biały śnieg za oknem...",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_z_rajskich_jabluszek_z_rumem_i_wanilia.jpg"
+        },
+        {
+            "name": "Sok z czeremchy",
+            "cap": "250ml",
+            "price": 22,
+            "stock": 10,
+            "shortDesc": "100% sok tłoczony z owoców czeremchy zbieranych w lesie.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/sok_z_czeremchy.jpg"
+        },
+        {
+            "name": "Konfitura z pigwowca",
+            "cap": "200ml",
+            "price": 17,
+            "stock": 10,
+            "shortDesc": "Świetny dodatek do deserów, ciast, lodów. Wspaniale smakuje ze świerzym pieczywem do porannej herbaty.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/konfitura_z_pigwowca.jpg"
+        },
+        {
+            "name": "Sok z pigwowca",
+            "cap": "500ml",
+            "price": 30,
+            "stock": 10,
+            "shortDesc": "Doskonały dodatek do herbaty, lemoniady. Półprodukt do domowych nalewek. Świetnie sprawdzi się w kuchni w zastępując sok z cytryny.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/sok_z_pigwowca.jpg"
+        },
+        {
+            "name": "Syrop z pigwowca na miodzie",
+            "cap": "500ml",
+            "price": 40,
+            "stock": 10,
+            "shortDesc": "Doskonały dodatek do herbaty, lemoniady, deserów, lodów. Półprodukt do domowych nalewek.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/sok_z_pigwowca_miod.jpg"
+        },
+        {
+            "name": "Syrop z pigwowca",
+            "cap": "500ml",
+            "price": 30,
+            "stock": 6,
+            "shortDesc": "Doskonały dodatek do herbaty, lemoniady, deserów, lodów. Półprodukt do domowych nalewek.",
+            "longDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, architecto, corporis rerum sapiente quasi provident quia, cupiditate modi magni tempora suscipit exercitationem inventore? Voluptatum quibusdam modi libero enim et similique.",
+            "img": "http://localhost:8888/img/syrop_z_pigwowca.jpg"
         }
     ]
